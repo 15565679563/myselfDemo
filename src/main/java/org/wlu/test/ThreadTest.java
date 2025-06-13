@@ -1,4 +1,4 @@
-package org.example;
+package org.wlu.test;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.concurrent.atomic.AtomicInteger;

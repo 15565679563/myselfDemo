@@ -1,4 +1,4 @@
-package org.example;
+package org.wlu.test;
 
 public class HeartArrow {
     public static void main(String[] args) {
