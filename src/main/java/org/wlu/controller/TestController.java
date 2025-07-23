@@ -14,6 +14,8 @@ public class TestController {
     @Autowired
     TestAsync testAsync;
 
+
+
     @GetMapping("/testSync")
     public String testSync(){
         System.out.println(Thread.currentThread().getName());
